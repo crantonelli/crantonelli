@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello there, I'm Cecilia
 
-<!--
-**crantonelli/crantonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an animal ecologist specializing in small mammal ecology, animal behaviour, and human-wildlife interactions. I'm passionate about integrating ecology with spatial tools (GIS) and advanced statistical modelling to guide sustainable land management.
 
-Here are some ideas to get you started:
+- 🤓 I recently finished my Doctorate in Biological Sciences
+- 🐭 I work with small mammals in agroecosystems 
+- 🌱 I’m exploring Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect**  
+[🦋Bluesky](https://bsky.app/profile/ce-antonelli.bsky.social)
+[✉️Email](cantonelli@exa.unrc.edu.ar)
+
+
