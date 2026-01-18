@@ -4,7 +4,7 @@ I'm an animal ecologist specialised in small mammal ecology, animal behaviour, a
 
 - 🤓 I recently finished my Doctorate in Biological Sciences
 - 🐭 I work with small mammals in agroecosystems 
-- 🌱 I’m exploring Git
+- 🌱 I’m exploring GitHub
 
 **Connect**  
 [🦋Bluesky](https://bsky.app/profile/ce-antonelli.bsky.social)
